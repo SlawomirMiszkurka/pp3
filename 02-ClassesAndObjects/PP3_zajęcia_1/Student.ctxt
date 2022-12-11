@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ podbijLegitymacje()
+comment3.params=
+comment3.target=void\ zaliczSemestr()
+comment4.params=
+comment4.target=void\ sayHello()
+comment5.params=
+comment5.target=void\ displayName()
+comment6.params=
+comment6.target=void\ displayAge()
+comment7.params=
+comment7.target=void\ studentInfo()
+comment8.params=
+comment8.target=void\ idStatusChange()
+comment9.params=
+comment9.target=void\ studentIdInfo()
+numComments=10

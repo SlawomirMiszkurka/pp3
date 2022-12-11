@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment1.params=
+comment1.target=BankAccount()
+comment2.params=y
+comment2.target=double\ wplac(int)
+comment3.params=
+comment3.target=double\ getStanKonta()
+comment4.params=y
+comment4.target=boolean\ wyplac(int)
+numComments=5
