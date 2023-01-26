@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SurfaceArea
+comment1.params=r
+comment1.target=double\ surfaceCirce(int)
+comment2.params=a\ b
+comment2.target=int\ surfaceRectangle(int,\ int)
+comment3.params=a\ h
+comment3.target=double\ surfaceTriangle(int,\ int)
+comment4.params=
+comment4.target=void\ wypisz()
+numComments=5
